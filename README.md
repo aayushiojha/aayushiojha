@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm Aayushi, a passionate full stack developer.<br>🔭 I’m currently working on Frontend development<br>👯 I’m looking to collaborate.<br>🤝 Let's create amazing web applications together!<br>📚 I’m currently learning Full stack development<br> 🌱 Let's create amazing web applications together!<br>✉️ You can contact me via email<a href="mailto:%3Caayushiojha13@gmail.com%3E">email</a> <br>
+👋 Hello there! I'm Aayushi, a passionate full stack developer.<br>🔭 I’m currently working on Frontend development<br>👯 I’m looking to collaborate.<br>🤝 Let's create amazing web applications together!<br>📚 I’m currently learning Full stack development<br> 🌱 Let's create amazing web applications together!<br>✉️ You can contact me via <a href="mailto:%3Caayushiojha13@gmail.com%3E">email</a> <br>
 
 
 ## 🌐 Socials:
