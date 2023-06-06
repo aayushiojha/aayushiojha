@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm Aayushi , a passionate full stack developer with a strong focus on creating robust and scalable web applications.<br><br>💻 I have a solid foundation in front-end technologies such as HTML, CSS, and JavaScript.  <br><br>🔧 I pay great attention to detail and strive for pixel-perfect designs.<br><br>🌐 I'm always eager to explore new tools and frameworks that can enhance my development workflow and deliver better user experiences.<br><br>📚 I believe in continuous learning and staying up-to-date with the latest technologies and industry trends. <br><br>🌟 I'm currently seeking new opportunities to work on exciting projects.<br><br>🤝Let's connect and create amazing web applications together!<br><br>
+👋 Hello there! I'm Aayushi, a passionate full stack developer.<br>🔭 I’m currently working on Frontend development<br>👯 I’m looking to collaborate.<br>🤝 Let's create amazing web applications together!<br>📚 I’m currently learning Full stack development<br> 🌱 Let's create amazing web applications together!<br>
 
 
 ## 🌐 Socials:
@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aayushiojha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushiojha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aayushiojha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=I_m_ashiojha)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
@@ -23,9 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aayushiojha&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aayushiojha&icon=0&color=0)](https://visitcount.itsvg.in)
